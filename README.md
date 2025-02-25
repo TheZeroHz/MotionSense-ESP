@@ -1,9 +1,9 @@
 # ESP-GestureSense 🚀  
-A real-time gesture detection system using an IMU (Inertial Measurement Unit) and an ESP-based microcontroller with **TensorFlow Lite (TFLite)** for lightweight machine learning inference. This project enables motion-based control by recognizing predefined gestures with IMU sensor data and processing them on an ESP32/ESP8266.  
+A real-time gesture detection system using an IMU (Inertial Measurement Unit) and an ESP-based microcontroller with **TensorFlow Lite (TFLite)** for lightweight machine learning inference. This project enables motion-based control by recognizing predefined gestures with IMU sensor data and processing them on an ESP32.  
 
 ## Features  
 ✅ **Real-time Gesture Recognition** – Detects hand movements using IMU sensor data  
-✅ **ESP32/ESP8266 Compatible** – Optimized for low-power microcontrollers  
+✅ **ESP32 Compatible** – Optimized for low-power microcontrollers  
 ✅ **TensorFlow Lite Integration** – Runs ML models efficiently on edge devices  
 ✅ **Customizable Gestures** – Train and deploy your own gesture recognition model  
 ✅ **Wireless Connectivity** – Supports Bluetooth/Wi-Fi for IoT applications  
