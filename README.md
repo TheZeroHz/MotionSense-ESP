@@ -10,7 +10,7 @@ A real-time gesture detection system using an IMU (Inertial Measurement Unit) an
 
 ## Getting Started  
 ### Hardware Requirements  
-- ESP32 or ESP8266 microcontroller  
+- ESP32  microcontroller  
 - IMU sensor (e.g., MPU6050, MPU9250)  
 - USB cable for programming  
 
