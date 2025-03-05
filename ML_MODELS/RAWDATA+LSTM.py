@@ -35,5 +35,3 @@ model.fit(train_dataset, epochs=EPOCHS, validation_data=validation_dataset, verb
 
 # Per-channel quantization flag
 disable_per_channel_quantization = False
-
-# Let me know if you want to tweak the architecture further or try another approach! 🚀
